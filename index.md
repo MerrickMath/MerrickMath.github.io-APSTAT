@@ -1,5 +1,5 @@
 ---
-layout: coursepage
+layout: default
 title: AP Statistics
 description: Questions, links, materials, and more
 show_downloads: FALSE
