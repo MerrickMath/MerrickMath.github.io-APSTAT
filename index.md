@@ -5,15 +5,13 @@ description: Questions, links, materials, and more
 show_downloads: FALSE
 
 ---
-### END OF AP CHECK IN FORM
-* <a href="https://docs.google.com/forms/d/e/1FAIpQLScySXcV61GN4LJZES57OjSC4DIZ1DwMezEJ9WbDCmMexBltpg/viewform?usp=sf_link"> Check in form </a>.
 
 ### Welcome to AP Statistics
 * <a href="https://MerrickMath.github.io/APStatistics/StatsTopics.pdf"> Course at a glance</a>.
 
 ---
 
-### April 4 -  May 4 
+### September 1 - September 
 * Watch List:  
     * Review any outstanding material. 
 
@@ -48,21 +46,12 @@ A timeline of previous posts may be found <a href="https://merrickMath.github.io
 ---
 
 ### Important Dates
-* <a href="https://MerrickMath.github.io/2021Statistics/Activities/ColloquiumI.pdf"> One Variable Statistics Colloquium </a>: September 17
-* One Variable Data Unit Test: September 27 
-* <a href="https://MerrickMath.github.io/2021Statistics/Activities/ColloquiumII.pdf"> Two Variable Statistics Colloquium </a>: TBD
-* Two Varibale Data Unit Test: October 18 
-* Collecting Data Unit Test: Novmeber 1 
-* Probability Unit Test: December 13
-* Sampling Distributions Unit Test: January 19
-* Inference for Proportions Unit Test: February 9 
-* Inference for Means Unit Test: March 9 (Wednesday) 
-* Inference for Categorical Data (Chi-Square Testing): March 21 
-* Inference for Regression: April 6
+* One Variable Data Unit Test: September
 
 ---
 
 ### Slides/Notes 
+<!---
 * <a href="https://MerrickMath.github.io/2021Statistics/Slides/Unit1.pdf"> Unit 1: One Variable Data</a>
 * <a href="https://MerrickMath.github.io/2021Statistics/Slides/Unit2.pdf"> Unit 2: Two Variable Data </a>
 * <a href="https://MerrickMath.github.io/2021Statistics/Slides/Unit3.pdf"> Unit 3: Collecting Data </a>
@@ -77,10 +66,13 @@ A timeline of previous posts may be found <a href="https://merrickMath.github.io
 * <a href="https://MerrickMath.github.io/2021Statistics/Slides/hypergeometric.pdf"> Unit 4: Hypergeometric Random Variables </a>
 * <a href="https://MerrickMath.github.io/2021Statistics/Slides/NormalApproxBinom.pdf"> Unit 4: Normal Approximation to Binomial Distribution </a>
 * <a href="https://MerrickMath.github.io/2021Statistics/Slides/SamplingDistributionNotes.pdf"> Sampling Distribution Notes (Please note that these notes go into much more depth than is required of AP Statistics) </a>
+---> 
 
 ---
 
 ### In Class Materials  
+
+<!--- 
 * <a href="https://MerrickMath.github.io/2021Statistics/Practice/DTSept9.pdf"> Deep Thoughts: September 9 </a>
 * <a href="https://MerrickMath.github.io/2021Statistics/Practice/DTSep9Solutions1.pdf"> Deep Thoughts: September 9 SOLUTIONS </a>
 * <a href="https://MerrickMath.github.io/2021Statistics/Practice/DTSept17.pdf"> Deep Thoughts: September 17 </a>
@@ -121,4 +113,5 @@ A timeline of previous posts may be found <a href="https://merrickMath.github.io
 * <a href="https://MerrickMath.github.io/2021Statistics/Practice/SlopeDistSoln.pdf"> Sampling distribution for slope of regression line  SOLUTIONS </a>
 * <a href="https://MerrickMath.github.io/2021Statistics/Practice/SlopeCISoln.pdf"> Confidence interval for slope of regression line  SOLUTIONS </a>
 * <a href="https://MerrickMath.github.io/2021Statistics/Practice/SlopeTestSoln.pdf"> Hypothesis for slope of regression line  SOLUTIONS </a>
+---> 
 
