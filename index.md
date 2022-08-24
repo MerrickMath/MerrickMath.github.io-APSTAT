@@ -1,6 +1,6 @@
 ---
 layout: coursepage
-title: AP Statistics 2022
+title: AP Statistics 
 description: Mr. Merrick 
 show_downloads: FALSE
 
