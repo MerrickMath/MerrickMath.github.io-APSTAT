@@ -1,6 +1,6 @@
 --- 
 layout: coursepage
-title: Course Timeline 2022 
+title: AP Statistics Timeline 2022 
 description:  
 
 --- 
