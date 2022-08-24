@@ -11,6 +11,7 @@ show_downloads: FALSE
 
 ---
 
+<!--- 
 ### September 1 - September 
 * Watch List:  
     * Review any outstanding material. 
@@ -25,6 +26,7 @@ show_downloads: FALSE
 THE AP STATISTICS EXAM IS APPROACHING **FAST** START PREPARING EARLY. 
 
 A timeline of previous posts may be found <a href="https://merrickMath.github.io/2021StatisticsTimeline.html"> here. </a>
+---> 
 
 ---
 
