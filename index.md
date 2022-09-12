@@ -5,21 +5,16 @@ description: Mr. Merrick
 show_downloads: FALSE
 
 ---
-<!---
-### Welcome to Statistics
-* <a href="https://MerrickMath.github.io/APStatistics/StatsTopics.pdf"> Course at a glance</a>.
----> 
 
----
 
-### Schedule
 <!--- 
+#### Schedule
 ### September 1 - September 
 * Watch List:  
     * Review any outstanding material. 
----> 
 
 A timeline of previous posts may be found <a href="https://merrickMath.github.io/2021StatisticsTimeline.html"> here. </a>
+---> 
 
 ---
 
