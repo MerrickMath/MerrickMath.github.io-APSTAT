@@ -1,6 +1,6 @@
 ---
 layout: coursepage
-title: AP Statistics 
+title: Introduction to Statistics 
 description: Mr. Merrick 
 show_downloads: FALSE
 
