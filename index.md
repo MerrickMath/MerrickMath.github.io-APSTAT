@@ -5,12 +5,14 @@ description: Mr. Merrick
 show_downloads: FALSE
 
 ---
-
-### Welcome to AP Statistics
+<!---
+### Welcome to Statistics
 * <a href="https://MerrickMath.github.io/APStatistics/StatsTopics.pdf"> Course at a glance</a>.
+---> 
 
 ---
 
+### Schedule
 <!--- 
 ### September 1 - September 
 * Watch List:  
@@ -19,28 +21,12 @@ show_downloads: FALSE
 
 A timeline of previous posts may be found <a href="https://merrickMath.github.io/2021StatisticsTimeline.html"> here. </a>
 
-
----
-
-
-### Exam 
-* The AP Statistics exam will be held on Thursday May 4, at 12PM.
-* <a href="https://MerrickMath.github.io/APStatistics/FormulaSheets.pdf"> Exam Formula Sheet</a>.
-* Past exam questons may be found <a href="https://apcentral.collegeboard.org/courses/ap-statistics/exam/past-exam-questions"> here.</a>
-<!--- * <a href="https://MerrickMath.github.io/2021Statistics/Practice/Overview.pdf"> Question guide for AP exam. </a> --->
-
 ---
 
 ### Resources
 * <a href="https://www.jbstatistics.com"> JBStatistics </a> 
 * <a href="https://www.khanacademy.org/math/ap-statistics"> Khan Academy AP Statistics </a> 
-* <a href="https://apcentral.collegeboard.org"> College Board </a> 
 * <a href="https://www.stapplet.com"> Statistics Apps </a> 
-
----
-
-### Important Dates
-* One Variable Data Unit Test: 
 
 ---
 
