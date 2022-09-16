@@ -16,7 +16,7 @@ show_downloads: FALSE
 A timeline of previous posts may be found <a href="https://merrickMath.github.io/2021StatisticsTimeline.html"> here. </a>
 ---> 
 
----
+--- 
 
 ### Online Resources
 * <a href="https://www.jbstatistics.com"> JBStatistics </a> 
