@@ -16,13 +16,6 @@ show_downloads: FALSE
 A timeline of previous posts may be found <a href="https://merrickMath.github.io/2021StatisticsTimeline.html"> here. </a>
 ---> 
 
---- 
-
-### Online Resources
-* <a href="https://www.jbstatistics.com"> JBStatistics </a> 
-* <a href="https://www.khanacademy.org/math/ap-statistics"> Khan Academy AP Statistics </a> 
-* <a href="https://www.stapplet.com"> Statistics Apps </a>  
-
 ---
 
 ### Slides/Notes 
@@ -90,4 +83,10 @@ A timeline of previous posts may be found <a href="https://merrickMath.github.io
 * <a href="https://MerrickMath.github.io/2021Statistics/Practice/SlopeCISoln.pdf"> Confidence interval for slope of regression line  SOLUTIONS </a>
 * <a href="https://MerrickMath.github.io/2021Statistics/Practice/SlopeTestSoln.pdf"> Hypothesis for slope of regression line  SOLUTIONS </a>
 ---> 
+
+### Online Resources
+* <a href="https://www.jbstatistics.com"> JBStatistics </a> 
+* <a href="https://www.khanacademy.org/math/ap-statistics"> Khan Academy AP Statistics </a> 
+* <a href="https://www.stapplet.com"> Statistics Apps </a>  
+
 
