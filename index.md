@@ -13,7 +13,11 @@ September 19-23: Exploratory data analysis with R
 
 ### In Class Materials  
 
+<!---
 ### R Code From Lectures 
+* <a href=""> Sept 19 </a> 
+* <a href=""> Sept 21 </a> 
+---> 
 
 ### Class Resources 
 * <a href="https://www.jbstatistics.com"> JBStatistics </a> 
