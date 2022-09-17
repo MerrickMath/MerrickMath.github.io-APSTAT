@@ -6,10 +6,12 @@ show_downloads: FALSE
 
 ---
 
-Welcomme to introduction to statistics. 
+Welcome to introduction to statistics. Class updates, materials, and homework will be posted here. You can join the statistics schoology group using the code: VPZG-6XVG-9T8JS
+
+### Topics Schedule
+September 19-23: Exploratory data analysis with R
 
 ### In Class Materials  
-
 
 ### Class Resources 
 * <a href="https://www.jbstatistics.com"> JBStatistics </a> 
