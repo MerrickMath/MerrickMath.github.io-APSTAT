@@ -11,12 +11,16 @@ Welcome to introduction to statistics. Class updates, materials, and homework wi
 ### Topics Schedule
 September 19-23: Exploratory data analysis with R
 
-### In Class Materials  
+<!---
+### Assignments 
+
+--->
+
 
 <!---
 ### R Code From Lectures 
-* <a href=""> Sept 19 </a> 
-* <a href=""> Sept 21 </a> 
+* <a href="https://merrickmath.github.io/MerrickMath.github.io-APSTAT/RCode2022/September19.r"> Sept 19 </a> 
+* <a href="https://merrickmath.github.io/MerrickMath.github.io-APSTAT/RCode2022/September21.r"> Sept 21 </a> 
 ---> 
 
 ### Class Resources 
