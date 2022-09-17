@@ -13,7 +13,7 @@ September 19-23: Exploratory data analysis with R
 
 <!---
 ### Assignments 
-
+*  <a href="https://merrickmath.github.io/MerrickMath.github.io-APSTAT/Assignments/Assignment1.pdf"> Sept 19 </a>
 --->
 
 
