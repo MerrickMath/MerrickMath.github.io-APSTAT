@@ -13,6 +13,8 @@ September 19-23: Exploratory data analysis with R
 
 ### In Class Materials  
 
+### R Code From Lectures 
+
 ### Class Resources 
 * <a href="https://www.jbstatistics.com"> JBStatistics </a> 
 * <a href="https://www.khanacademy.org/math/ap-statistics"> Khan Academy AP Statistics </a> 
