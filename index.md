@@ -24,11 +24,12 @@ September 19-23: Exploratory data analysis with R
 ---> 
 
 ### Class Resources 
+* <a href="http://jupyter.renert.housegordon.com"> Jupyter Server </a> 
 * <a href="https://www.jbstatistics.com"> JBStatistics </a> 
 * <a href="https://www.khanacademy.org/math/ap-statistics"> Khan Academy AP Statistics </a> 
 * <a href="https://www.stapplet.com"> Statistics Apps </a>  
 * <a href="https://www.r-project.org"> R download </a>  
 * <a href="https://www.rstudio.com/products/rstudio/download/"> R Studio download </a>  
-* <a href="http://jupyter.renert.housegordon.com"> Jupyter Server </a> 
+
 
 
