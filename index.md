@@ -25,9 +25,10 @@ September 19-23: Exploratory data analysis with R
 ### Notes 
 *  <a href="https://merrickmath.github.io/MerrickMath.github.io-APSTAT/Notes/September19.pdf"> September 19 </a> 
 
-<!---
+
 ### R Code From Lectures 
-* <a href="https://merrickmath.github.io/MerrickMath.github.io-APSTAT/RCode2022/September19.r"> Sept 19 </a> 
+* <a href="https://merrickmath.github.io/MerrickMath.github.io-APSTAT/RCode2022/September21.r"> Sept 21 </a> 
+<!---
 * <a href="https://merrickmath.github.io/MerrickMath.github.io-APSTAT/RCode2022/September21.r"> Sept 21 </a> 
 ---> 
 
