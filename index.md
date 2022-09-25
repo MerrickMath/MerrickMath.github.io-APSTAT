@@ -9,8 +9,7 @@ show_downloads: FALSE
 Welcome to introduction to statistics. Class updates, materials, and homework will be posted here. You can join the statistics schoology group using the code: VPZG-6XVG-9T8JS
 
 ### Topics Schedule
-September 19-23: Exploratory data analysis with R
-
+September 19-30: Exploratory data analysis with R (One Varibale Descriptive Statistics and Visualizations) 
 
 ### Assignments 
 *  <a href="https://merrickmath.github.io/MerrickMath.github.io-APSTAT/Assignments/Assignment1.pdf"> Assignment 1 </a>
