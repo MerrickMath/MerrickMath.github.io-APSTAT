@@ -26,8 +26,8 @@ September 19-30: Exploratory data analysis with R (One Varibale Descriptive Stat
 
 
 ### R Code From Lectures 
-* <a href="https://merrickmath.github.io/MerrickMath.github.io-APSTAT/RCode2022/September21.r"> September 21 </a> 
-* <a href="https://merrickmath.github.io/MerrickMath.github.io-APSTAT/RCode2022/September26.r"> September 26 </a> 
+* <a href="https://merrickmath.github.io/MerrickMath.github.io-APSTAT/RCode2022/September21.R"> September 21 </a> 
+* <a href="https://merrickmath.github.io/MerrickMath.github.io-APSTAT/RCode2022/September26.R"> September 26 </a> 
 
 <!---
 * <a href="https://merrickmath.github.io/MerrickMath.github.io-APSTAT/RCode2022/September21.r"> Sept 21 </a> 
