@@ -10,6 +10,8 @@ Welcome to introduction to statistics. Class updates, materials, and homework wi
 
 ### Topics Schedule
 September 19-30: Exploratory data analysis with R (One Varibale Descriptive Statistics and Visualizations) 
+October 1-24: Exploratory data analysis with R (Two varibale Descriptive Statistics and Visualizations) 
+October 26-31: Data Collection 
 
 ### Assignments 
 *  <a href="https://merrickmath.github.io/MerrickMath.github.io-APSTAT/Assignments/Assignment1.pdf"> Assignment 1 </a>
