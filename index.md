@@ -12,7 +12,7 @@ Welcome to introduction to statistics. Class updates, materials, and homework wi
 
 **September 19-30:** Exploratory data analysis with R (One Varibale Descriptive Statistics and Visualizations) \
 **October 1-24:** Exploratory data analysis with R (Two varibale Descriptive Statistics and Visualizations) \
-**October 26-31:** Data Collection 
+**October 26-31:** Data Collection and Experimentation 
 
 
 
