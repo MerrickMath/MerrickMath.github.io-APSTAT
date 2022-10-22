@@ -19,6 +19,7 @@ Welcome to introduction to statistics. Class updates, materials, and homework wi
 ### Assignments 
 *  <a href="https://merrickmath.github.io/MerrickMath.github.io-APSTAT/Assignments/Assignment1.pdf"> Assignment 1 </a>
 *  <a href="https://merrickmath.github.io/MerrickMath.github.io-APSTAT/Assignments/Assignment2.pdf"> Assignment 2 </a>
+*  <a href="https://merrickmath.github.io/MerrickMath.github.io-APSTAT/Assignments/Assignment3.pdf"> Assignment 3 </a>
 
 <!--- 
 *  <a href="https://merrickmath.github.io/MerrickMath.github.io-APSTAT/Assignments/Assignment2.pdf"> Assignment 2 </a>
@@ -30,6 +31,7 @@ Welcome to introduction to statistics. Class updates, materials, and homework wi
 ### Notes 
 *  <a href="https://merrickmath.github.io/MerrickMath.github.io-APSTAT/Notes/September19.pdf"> September 19 </a> 
 *  <a href="https://merrickmath.github.io/MerrickMath.github.io-APSTAT/2021Statistics/Slides/Unit2.pdf"> Unit 2 Slides </a> 
+*  <a href="https://merrickmath.github.io/MerrickMath.github.io-APSTAT/2021Statistics/Slides/Unit3.pdf"> Unit 3 Slides </a> 
 
 ### R Code From Lectures 
 * <a href="https://merrickmath.github.io/MerrickMath.github.io-APSTAT/RCode2022/September21.R"> September 21 </a> 
