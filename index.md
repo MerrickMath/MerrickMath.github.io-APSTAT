@@ -14,7 +14,8 @@ Welcome to introduction to statistics. Class updates, materials, and homework wi
 **October 1-24:** Exploratory data analysis with R (Two varibale Descriptive Statistics and Visualizations) \
 **October 26-November 4:** Data Collection and Experimentation \
 **November 14-18:** Sets and Probability \
-**November 21-25:** Simmulation and Conditional Probability 
+**November 21-25:** Probability Simulation \
+**November 28- December 3:** Conditional Probability and Random Variables 
 
 
 ### Assignments 
