@@ -16,6 +16,7 @@ Welcome to introduction to statistics. Class updates, materials, and homework wi
 **November 14-18:** Sets and Probability \
 **November 21-25:** Probability Simulation \
 **November 28- December 3:** Conditional Probability and Random Variables 
+**December 5-9:** Conditional Probability and Random Variables 
 
 
 ### Assignments 
