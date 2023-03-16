@@ -17,19 +17,17 @@ Welcome to introduction to statistics. Class updates, materials, and homework wi
 **November 21-25:** Probability Simulation \
 **November 28- December 3:** Conditional Probability and Random Variables \
 **December 5-9:** Conditional Probability and Random Variables \
-
+**January-February:** Discrete Random Variables \
+**March 13-31:** Continuous Random Variables \
 
 ### Assignments 
 *  <a href="https://merrickmath.github.io/MerrickMath.github.io-APSTAT/Assignments/Assignment1.pdf"> Assignment 1 </a>
 *  <a href="https://merrickmath.github.io/MerrickMath.github.io-APSTAT/Assignments/Assignment2.pdf"> Assignment 2 </a>
 *  <a href="https://merrickmath.github.io/MerrickMath.github.io-APSTAT/Assignments/Assignment3.pdf"> Assignment 3 </a>
-
-<!--- 
-*  <a href="https://merrickmath.github.io/MerrickMath.github.io-APSTAT/Assignments/Assignment2.pdf"> Assignment 2 </a>
-*  <a href="https://merrickmath.github.io/MerrickMath.github.io-APSTAT/Assignments/Assignment3.pdf"> Assignment 3 </a>
 *  <a href="https://merrickmath.github.io/MerrickMath.github.io-APSTAT/Assignments/Assignment4.pdf"> Assignment 4 </a>
 *  <a href="https://merrickmath.github.io/MerrickMath.github.io-APSTAT/Assignments/Assignment5.pdf"> Assignment 5 </a>
----> 
+
+### Practice Problems 
 
 ### Notes 
 *  <a href="https://merrickmath.github.io/MerrickMath.github.io-APSTAT/Notes/September19.pdf"> September 19 </a> 
