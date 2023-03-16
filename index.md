@@ -28,7 +28,9 @@ Welcome to introduction to statistics. Class updates, materials, and homework wi
 *  <a href="https://merrickmath.github.io/MerrickMath.github.io-APSTAT/Assignments/Assignment5.pdf"> Assignment 5 </a>
 
 ### Practice Problems 
-
+*  <a href="https://merrickmath.github.io/MerrickMath.github.io-APSTAT/Assignments/Exponential.pdf"> Exponential Distribution Problems</a>
+*  <a href="https://merrickmath.github.io/MerrickMath.github.io-APSTAT/Assignments/Normal.pdf"> Normal Distribution Problems </a>
+*
 ### Notes 
 *  <a href="https://merrickmath.github.io/MerrickMath.github.io-APSTAT/Notes/September19.pdf"> September 19 </a> 
 *  <a href="https://merrickmath.github.io/MerrickMath.github.io-APSTAT/2021Statistics/Slides/Unit2.pdf"> Unit 2 Slides </a> 
