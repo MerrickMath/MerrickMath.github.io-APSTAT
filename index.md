@@ -6,43 +6,14 @@ show_downloads: FALSE
 
 ---
 
-Welcome to introduction to statistics. Class updates, materials, and homework will be posted here. You can join the statistics schoology group using the code: VPZG-6XVG-9T8JS
+Welcome to AP Statistics. Class updates, materials, and homework will be posted here. There is a 'course at a glance' document summarising the units we will cover here. You can join the statistics schoology group using the code: VPZG-6XVG-9T8JS 
 
-### Topics Schedule
+### Timeline and Homework 
+* *September 5-8:*
+* *September 11-15:*
 
-**September 19-30:** Exploratory data analysis with R (One Varibale Descriptive Statistics and Visualizations) \
-**October 1-24:** Exploratory data analysis with R (Two varibale Descriptive Statistics and Visualizations) \
-**October 26-November 4:** Data Collection and Experimentation \
-**November 14-18:** Sets and Probability \
-**November 21-25:** Probability Simulation \
-**November 28- December 3:** Conditional Probability and Random Variables \
-**December 5-9:** Conditional Probability and Random Variables \
-**January-February:** Discrete Random Variables \
-**March 13-31:** Continuous Random Variables \
-
-### Assignments 
-*  <a href="https://merrickmath.github.io/MerrickMath.github.io-APSTAT/Assignments/Assignment1.pdf"> Assignment 1 </a>
-*  <a href="https://merrickmath.github.io/MerrickMath.github.io-APSTAT/Assignments/Assignment2.pdf"> Assignment 2 </a>
-*  <a href="https://merrickmath.github.io/MerrickMath.github.io-APSTAT/Assignments/Assignment3.pdf"> Assignment 3 </a>
-*  <a href="https://merrickmath.github.io/MerrickMath.github.io-APSTAT/Assignments/Assignment4.pdf"> Assignment 4 </a>
-*  <a href="https://merrickmath.github.io/MerrickMath.github.io-APSTAT/Assignments/Assignment5.pdf"> Assignment 5 </a>
-
-### Practice Problems 
-*  <a href="https://merrickmath.github.io/MerrickMath.github.io-APSTAT/Assignments/Exponential.pdf"> Exponential Distribution Problems</a>
-*  <a href="https://merrickmath.github.io/MerrickMath.github.io-APSTAT/Assignments/Normal.pdf"> Normal Distribution Problems </a>
-
-### Notes 
-*  <a href="https://merrickmath.github.io/MerrickMath.github.io-APSTAT/Notes/September19.pdf"> September 19 </a> 
-*  <a href="https://merrickmath.github.io/MerrickMath.github.io-APSTAT/2021Statistics/Slides/Unit2.pdf"> Unit 2 Slides </a> 
-*  <a href="https://merrickmath.github.io/MerrickMath.github.io-APSTAT/2021Statistics/Slides/Unit3.pdf"> Unit 3 Slides </a> 
-
-### R Code From Lectures 
-* <a href="https://merrickmath.github.io/MerrickMath.github.io-APSTAT/RCode2022/September21.R"> September 21 </a> 
-* <a href="https://merrickmath.github.io/MerrickMath.github.io-APSTAT/RCode2022/September26.R"> September 26 </a> 
-
-<!---
-* <a href="https://merrickmath.github.io/MerrickMath.github.io-APSTAT/RCode2022/September21.r"> Sept 21 </a> 
----> 
+### The Exam 
+* The AP Statistics exam will be held on Tuesday May 4, 2024 at 12 pm.
 
 ### Class Resources 
 * <a href="http://jupyter.renert.housegordon.com"> Jupyter Server </a> 
