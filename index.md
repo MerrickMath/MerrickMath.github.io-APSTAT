@@ -6,7 +6,8 @@ show_downloads: FALSE
 
 ---
 
-Welcome to AP Statistics. Class updates, materials, and homework will be posted here. There is a 'course at a glance' document summarising the units we will cover here. You can join the statistics schoology group using the code: VPZG-6XVG-9T8JS 
+Welcome to AP Statistics. Class updates, materials, and homework will be posted here. You can join the statistics schoology group using the code: VPZG-6XVG-9T8JS 
+* <a href="https://apcentral.collegeboard.org/media/pdf/ap-statistics-course-at-a-glance.pdf"> Course at a Galance </a> 
 
 ### Timeline and Homework 
 * *September 5-8:*
@@ -14,6 +15,8 @@ Welcome to AP Statistics. Class updates, materials, and homework will be posted 
 
 ### The Exam 
 * The AP Statistics exam will be held on Tuesday May 4, 2024 at 12 pm.
+* <a href="https://apcentral.collegeboard.org/courses/ap-statistics/exam"> Detailed exam information  </a> 
+
 
 ### Class Resources 
 * <a href="http://jupyter.renert.housegordon.com"> Jupyter Server </a> 
