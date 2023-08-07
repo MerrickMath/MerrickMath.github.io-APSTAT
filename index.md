@@ -15,7 +15,8 @@ Welcome to AP Statistics. Class updates, materials, and homework will be posted 
 
 ### The Exam 
 * The AP Statistics exam will be held on Tuesday May 4, 2024 at 12 pm.
-* <a href="https://apcentral.collegeboard.org/courses/ap-statistics/exam"> Detailed exam information  </a> 
+* <a href="https://apcentral.collegeboard.org/courses/ap-statistics/exam"> Detailed exam information  </a>
+<!--- * <a href="https://apcentral.collegeboard.org/courses/ap-statistics/exam/past-exam-questions"> Past Exam Questions </a> ---> 
 
 
 ### Class Resources 
