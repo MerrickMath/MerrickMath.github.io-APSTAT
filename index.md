@@ -1,12 +1,15 @@
 ---
 layout: coursepage
-title: Introduction to Statistics 
+title: AP Statistics
 description: Mr. Merrick 
 show_downloads: FALSE
 
 ---
 
-Welcome to AP Statistics. Class updates, materials, and homework will be posted here. You can join the statistics schoology group using the code: VPZG-6XVG-9T8JS 
+Welcome to AP Statistics. Class updates, materials, and homework will be posted here. 
+
+<!--- You can join the statistics schoology group using the code: VPZG-6XVG-9T8JS ---> 
+
 * <a href="https://apcentral.collegeboard.org/media/pdf/ap-statistics-course-at-a-glance.pdf"> Course at a Galance </a> 
 
 ### Timeline and Homework 
