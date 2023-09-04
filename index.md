@@ -13,10 +13,8 @@ Welcome to AP Statistics. Class updates, materials, and homework will be posted 
 * <a href="https://apcentral.collegeboard.org/media/pdf/ap-statistics-course-at-a-glance.pdf"> Course at a Galance </a> 
 
 ### Timeline and Homework 
-* **September 5-8:** Watch all unit one videos, complete
-* **September 11-15:**
+* **September 5-17:** Watch all unit one videos, and complete assigned questions.
 
-  
 ### Tests 
 * **Unit 1 Test:** September 18
 * **Unit 2 Test:**
