@@ -31,8 +31,6 @@ Welcome to AP Statistics. Class updates, materials, and homework will be posted 
 * <a href="https://apcentral.collegeboard.org/courses/ap-statistics/exam"> Detailed exam information  </a>
 <!--- * <a href="https://apcentral.collegeboard.org/courses/ap-statistics/exam/past-exam-questions"> Past Exam Questions </a> ---> 
 
-### In Class Materials 
-
 ### Class Resources 
 * <a href="http://jupyter.renert.housegordon.com"> Jupyter Server </a> 
 * <a href="https://www.jbstatistics.com"> JBStatistics </a> 
