@@ -32,7 +32,8 @@ Welcome to AP Statistics. Class updates, materials, and homework will be posted 
 <!--- * <a href="https://apcentral.collegeboard.org/courses/ap-statistics/exam/past-exam-questions"> Past Exam Questions </a> ---> 
 
 ### Class Resources 
-* <a href="http://jupyter.renert.housegordon.com"> Jupyter Server </a> 
+* <a href="http://jupyter.renert.housegordon.com"> Jupyter Server </a>
+* <a href="https://drive.google.com/drive/folders/1SAwh7_BTf8Mkrvddb032jgdsNS6mII9f?usp=sharing"> Class Datasets </a>
 * <a href="https://www.jbstatistics.com"> JBStatistics </a> 
 * <a href="https://www.khanacademy.org/math/ap-statistics"> Khan Academy AP Statistics </a> 
 * <a href="https://www.stapplet.com"> Statistics Apps </a>  
