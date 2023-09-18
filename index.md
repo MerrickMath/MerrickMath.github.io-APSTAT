@@ -14,11 +14,12 @@ Welcome to AP Statistics. Class updates, materials, and homework will be posted 
 
 ### Timeline and Homework 
 * **September 5-17:** Watch all unit one videos, and complete assigned questions.
+* **September 18 - Sept 29:** Watch all unit two videos, and complete assigned questions.
 
 ### Tests 
-* **Unit 1 Test:** September 18
-* **Unit 2 Test:**
-* **Unit 3 Test:**
+* **Unit 1 Test:** September 20
+* **Unit 2 Test:** October 25 
+* **Unit 3 Test:** 
 * **Unit 4 Test:**
 * **Unit 5 Test:**
 * **Unit 6 Test:**
