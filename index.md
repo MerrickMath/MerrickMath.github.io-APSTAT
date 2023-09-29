@@ -32,6 +32,10 @@ Welcome to AP Statistics. Class updates, materials, and homework will be posted 
 * <a href="https://apcentral.collegeboard.org/courses/ap-statistics/exam"> Detailed exam information  </a>
 <!--- * <a href="https://apcentral.collegeboard.org/courses/ap-statistics/exam/past-exam-questions"> Past Exam Questions </a> ---> 
 
+### In Class Materials
+* <a href="https://merrickmath.github.io/MerrickMath.github.io-APSTAT/2023/SecondCoding.r"> Regression Class Code </a>
+* <a href="https://merrickmath.github.io/MerrickMath.github.io-APSTAT/2023/unit2.pdf"> Jupyter Server </a>
+
 ### Class Resources 
 * <a href="http://jupyter.renert.housegordon.com"> Jupyter Server </a>
 * <a href="https://drive.google.com/drive/folders/1SAwh7_BTf8Mkrvddb032jgdsNS6mII9f?usp=sharing"> Class Datasets </a>
