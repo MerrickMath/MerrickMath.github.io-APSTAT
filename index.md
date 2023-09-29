@@ -34,7 +34,6 @@ Welcome to AP Statistics. Class updates, materials, and homework will be posted 
 <!--- * <a href="https://apcentral.collegeboard.org/courses/ap-statistics/exam/past-exam-questions"> Past Exam Questions </a> ---> 
 
 ### In Class Materials
-* <a href="https://merrickmath.github.io/MerrickMath.github.io-APSTAT/2023/regressioncode.R"> Regression Class Code </a>
 * <a href="https://merrickmath.github.io/MerrickMath.github.io-APSTAT/2023/unit2.pdf"> Unit 2 Slides </a>
 
 ### Class Resources 
