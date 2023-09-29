@@ -34,7 +34,7 @@ Welcome to AP Statistics. Class updates, materials, and homework will be posted 
 
 ### In Class Materials
 * <a href="https://merrickmath.github.io/MerrickMath.github.io-APSTAT/2023/SecondCoding.r"> Regression Class Code </a>
-* <a href="https://merrickmath.github.io/MerrickMath.github.io-APSTAT/2023/unit2.pdf"> Jupyter Server </a>
+* <a href="https://merrickmath.github.io/MerrickMath.github.io-APSTAT/2023/unit2.pdf"> Unit 2 Slides </a>
 
 ### Class Resources 
 * <a href="http://jupyter.renert.housegordon.com"> Jupyter Server </a>
