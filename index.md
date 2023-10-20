@@ -16,8 +16,9 @@ Welcome to AP Statistics. Class updates, materials, and homework will be posted 
 * **September 5-17:** Watch all unit one videos, and complete assigned questions.
 * **September 18 - Sept 29:** Watch all unit two videos, and complete assigned questions.
 * **September 29 - October 9:** Finish practice MCQ/FRQ on AP Classroom. Finish Exploratory Data Analysis project. 
-* **October 9-16:** Finish unit 2 practice problems. Finish Exploratory Data Analysis project.
-  
+* **October 9-16:** Finish unit 2 practice problems. Finish Exploratory Data Analysis project **(Due Monday Octber 23)**.
+* **October 20-30:** Watch all AP classroom Unit 3 videos. Finish all AP classroom assigned problems. Finish Unit 3 practice packet. Finish Exploratory Data Analysis project.
+
 ### Tests 
 * **Unit 1 Test:** September 20
 * **Unit 2 Test:** October 18
