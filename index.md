@@ -25,9 +25,9 @@ Welcome to AP Statistics. Class updates, materials, and homework will be posted 
 * **Unit 1 Test:** September 20
 * **Unit 2 Test:** October 18
 * **Unit 3 Test:** November 1 / November 13 (Based on preference) 
-* **Unit 4 Test:**
-* **Unit 5 Test:**
-* **Unit 6 Test:**
+* **Unit 4 Test:** December 6 
+* **Unit 5 Test:** December 20
+* **Unit 6 Test:** 
 * **Unit 7 Test:**
 * **Unit 8 Test:**
 * **Unit 9 Test:**
