@@ -19,7 +19,8 @@ Welcome to AP Statistics. Class updates, materials, and homework will be posted 
 * **October 9-16:** Finish unit 2 practice problems. Finish Exploratory Data Analysis project **(Due Monday Octber 23)**.
 * **October 20-30:** Watch all AP classroom Unit 3 videos. Finish all AP classroom assigned problems. Finish Unit 3 practice packet. Finish Exploratory Data Analysis project.
 * **October 31 - November 12:** Watch all AP classroom Unit 4 videos. Finish all AP classroom assigned problems.
-* **November 24 - 27:** Finish AMC 10/12 Problems. Complete expectation/variance proofs for geometric random variables. 
+* **November 24 - 27:** Finish AMC 10/12 Problems. Complete expectation/variance proofs for geometric random variables.
+* **November 26 - December 3:** Finish AP Exam FRQ Homework Problems. 
   
 ### Tests 
 * **Unit 1 Test:** September 20
