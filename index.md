@@ -22,7 +22,7 @@ Welcome to AP Statistics. Class updates, materials, and homework will be posted 
 * **November 24 - 27:** Finish AMC 10/12 Problems. Complete expectation/variance proofs for geometric random variables.
 * **November 26 - December 3:** Finish AP Exam FRQ Homework Problems. Read notes on continous random variables and binomial approximations. Complete posted MC problem sets.
 * **December 7 - December 15:** Finish all AP assigned videos / problems. Finish additional MC problems handout.
-* **January 2 - January 14:** Finish all AP assigned videos / problems.
+* **January 2 - January 14:** Finish all AP assigned videos / problems. (Finish Oxford problems, and Unit 4 review problems by January 8th). 
   
 ### Tests 
 * **Unit 1 Test:** September 20
