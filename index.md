@@ -31,7 +31,7 @@ Welcome to AP Statistics. Class updates, materials, and homework will be posted 
 * **Unit 3 Test:** November 1 / November 13 (Based on preference) 
 * **Unit 4 Test:** December 6 
 * **Unit 5 Test:** December 20
-* **Unit 6 Test:** January 29 (tentative) 
+* **Unit 6 Test:** January 22
 * **Unit 7 Test:** February 14  (tentative) 
 * **Unit 8 Test:** March 6  (tentative) 
 * **Unit 9 Test:** March 20  (tentative) 
