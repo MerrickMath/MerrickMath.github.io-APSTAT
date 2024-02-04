@@ -24,7 +24,7 @@ Welcome to AP Statistics. Class updates, materials, and homework will be posted 
 * **December 7 - December 15:** Finish all AP assigned videos / problems. Finish additional MC problems handout.
 * **January 2 - January 14:** Finish all AP assigned videos / problems. (Finish Oxford problems, and Unit 4 review problems by January 8th). 
 * **January 15 - January 21:** Finish all AP assigned videos / problems. Finish Oxford problems.
-* **January 27 - February 2:** Finish all AP assigned videos / problems. 
+* **January 27 - February 4:** Finish all AP assigned videos / problems. 
       
 ### Tests 
 * **Unit 1 Test:** September 20
@@ -33,7 +33,7 @@ Welcome to AP Statistics. Class updates, materials, and homework will be posted 
 * **Unit 4 Test:** December 6 
 * **Unit 5 Test:** December 20
 * **Unit 6 Test:** January 22
-* **Unit 7 Test:** February 14  (tentative) 
+* **Unit 7 Test:** February 7 
 * **Unit 8 Test:** March 6  (tentative) 
 * **Unit 9 Test:** March 20  (tentative) 
 
