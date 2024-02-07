@@ -25,6 +25,7 @@ Welcome to AP Statistics. Class updates, materials, and homework will be posted 
 * **January 2 - January 14:** Finish all AP assigned videos / problems. (Finish Oxford problems, and Unit 4 review problems by January 8th). 
 * **January 15 - January 21:** Finish all AP assigned videos / problems. Finish Oxford problems.
 * **January 27 - February 4:** Finish all AP assigned videos / problems. 
+* **February 7 - February 12:** Finish all AP assigned videos / problems. Inference lab assignment due Monday **in class**. 
       
 ### Tests 
 * **Unit 1 Test:** September 20
