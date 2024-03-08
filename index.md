@@ -26,7 +26,8 @@ Welcome to AP Statistics. Class updates, materials, and homework will be posted 
 * **January 15 - January 21:** Finish all AP assigned videos / problems. Finish Oxford problems.
 * **January 27 - February 4:** Finish all AP assigned videos / problems. 
 * **February 7 - February 12:** Finish all AP assigned videos / problems. Inference lab assignment due Monday **in class**.
-* **February 15 - 26:** Finish any outstanding Unit 8 problems / videos. Watch assigned unit 9 videos. 
+* **February 15 - 26:** Finish any outstanding Unit 8 problems / videos. Watch assigned unit 9 videos.
+* **March 8 - 13:** Finish any outstanding Unit 9 problems 
       
 ### Tests 
 * **Unit 1 Test:** September 20
@@ -36,8 +37,8 @@ Welcome to AP Statistics. Class updates, materials, and homework will be posted 
 * **Unit 5 Test:** December 20
 * **Unit 6 Test:** January 22
 * **Unit 7 Test:** February 7 
-* **Unit 8 Test:** February 28  (tentative) 
-* **Unit 9 Test:** March 13  (tentative) 
+* **Unit 8 Test:** February 28  
+* **Unit 9 Test:** March 13  
 
 ### The Exam 
 * The AP Statistics exam will be held on Tuesday May 4, 2024 at 12 pm.
